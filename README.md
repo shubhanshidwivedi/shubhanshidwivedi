@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shubhanshidwivedi
 - 👀 I’m interested in Full Stack  development 
-- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on Frontend / Backendweb development
 - 📫 How to reach me dwivedishubhanshi@gmail.com
 
