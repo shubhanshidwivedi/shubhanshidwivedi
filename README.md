@@ -51,16 +51,6 @@ Aspiring Software Developer currently pursuing **PG-DAC at CDAC Delhi**, with ha
 - Implemented role-based authentication & automated evaluation  
 - Developed REST APIs consumed by React frontend  
 - Integrated scalable MySQL schema for reliable data operations
-
----
-
-### **Vehicle Listing Application**  
-**Tech:** React.js, HTML, CSS, JWT, OAuth  
-- Created vehicle listing, wishlist, and filtering features  
-- Implemented **JWT + OAuth** authentication  
-- Enhanced admin & search features  
-- Fixed category-based viewing bugs improving performance
-
 ---
 
 ### **Smart Plant Monitoring System**  
