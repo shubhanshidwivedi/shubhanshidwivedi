@@ -23,6 +23,10 @@ Aspiring Software Developer currently pursuing **PG-DAC at CDAC Delhi**, with ha
 
 ## 💼 Experience
 
+### **RSL , Pune** — *Software Engineer* *(March 2026 – Present)*  
+
+
+
 ### **Blank Labs** — *Trainee Developer* *(Aug 2023 – Nov 2023, Remote)*  
 - Adopted **Scrum** methodology for sprint-based delivery  
 - Built reactive UI using **Svelte + Tailwind CSS**  
