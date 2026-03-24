@@ -6,13 +6,13 @@
 ---
 
 ## 🚀 About Me
-Aspiring Software Developer currently pursuing **PG-DAC at CDAC Delhi**, with hands-on experience in full-stack development, backend engineering, and scalable system design. Passionate about building reliable distributed applications and optimizing system performance.
+Software Engineer currently working at  **RSL Pune**, with hands-on experience in full-stack development, backend engineering, and scalable system design. Passionate about building reliable distributed applications and optimizing system performance.
 
 ---
 
 ## 🎓 Education
 
-### **CDAC Delhi** *(Aug 2025 – Present)*  
+### **CDAC Delhi** *(Aug 2025 – March 2026)*  
 **PG Diploma in Advanced Computing (PG-DAC)** — *Enrolled*
 
 ### **KIET Group of Institutions, Ghaziabad** *(2019 – 2023)*  
